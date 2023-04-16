@@ -1,0 +1,46 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>ar.edu.utn.frc.tup.lciii</groupId>
+  <artifactId>design-patters</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <name>design-patters</name>
+  <url>https://maven.apache.org</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <java.version>11</java.version>
+    <maven.compiler.source>11</maven.compiler.source>
+    <maven.compiler.target>11</maven.compiler.target>
+  </properties>
+
+  <modules>
+    <module>abstract-factory</module>
+    <module>builder</module>
+    <module>factory-method</module>
+    <module>prototype</module>
+    <module>singleton</module>
+    <module>adapter</module>
+    <module>bridge</module>
+    <module>composite</module>
+    <module>decorator</module>
+    <module>facade</module>
+    <module>flyweight</module>
+    <module>proxy</module>
+    <module>chain-of-responsibilities</module>
+    <module>command</module>
+    <module>interpreter</module>
+    <module>iterator</module>
+    <module>mediator</module>
+    <module>memento</module>
+    <module>observer</module>
+    <module>state</module>
+    <module>strategy</module>
+    <module>template-method</module>
+    <module>visitor</module>
+  </modules>
+
+</project>
