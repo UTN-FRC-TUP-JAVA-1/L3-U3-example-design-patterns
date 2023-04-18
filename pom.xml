@@ -33,7 +33,7 @@
 <!--    <module>chain-of-responsibilities</module>-->
 <!--    <module>command</module>-->
 <!--    <module>interpreter</module>-->
-<!--    <module>iterator</module>-->
+    <module>iterator</module>
 <!--    <module>mediator</module>-->
 <!--    <module>memento</module>-->
 <!--    <module>observer</module>-->
