@@ -36,7 +36,7 @@
     <module>iterator</module>
 <!--    <module>mediator</module>-->
 <!--    <module>memento</module>-->
-<!--    <module>observer</module>-->
+    <module>observer</module>
 <!--    <module>state</module>-->
     <module>strategy</module>
     <module>template-method</module>

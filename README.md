@@ -251,7 +251,7 @@ instances of these classes.
  * [Iterator](./iterator/README.md)
  * Mediator
  * Memento
- * Observer
+ * [Observer](./observer/README.md)
  * State
  * [Strategy](./strategy/README.md)
  * [Template Method](./template-method/README.md)
