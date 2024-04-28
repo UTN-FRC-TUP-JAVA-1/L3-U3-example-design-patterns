@@ -70,6 +70,15 @@ use it here to let a client ask a list object for the appropriate iterator. The 
 Method approach give rise to two class hierarchies, one for lists and another for
 iterators. The Createlterator factory method "connects" the two hierarchies.
 
+## Applicability
+
+Use the Iterator pattern
+
+* to access an aggregate object's contents without exposing its internal representation.
+* to support multiple traversals of aggregate objects.
+* to provide a uniform interface for traversing different aggregate structures
+(that is, to support polymorphic iteration).
+
 ## Structure
 
 ![](docs/_images/img_2.png)

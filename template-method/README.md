@@ -56,6 +56,20 @@ By defining some of the steps of an algorithm using abstract operations,
 the template method fixes their ordering, but it lets Application and 
 Document subclasses vary those steps to suit their needs.
 
+## Applicability
+The Template Method pattern should be used
+* to implement the invariant parts of an algorithm once and leave it up to
+subclasses to implement the behavior that can vary.
+* when common behavior among subclasses should be factored and localized
+in a common class to avoid code duplication. This is a good example of
+"refactoring to generalize" as described by Opdyke and Johnson.
+You first identify the differences in the existing code and then separate the
+differences into new operations. Finally, you replace the differing code with
+a template method that calls one of these new operations.
+* to control subclasses extensions. You can define a template method that calls
+"hook" operations (see Consequences) at specific points, thereby permitting
+extensions only at those points.
+
 ## Structure
 
 ![](docs/_images/img_1.png)
