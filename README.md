@@ -220,7 +220,7 @@ describe ways to compose objects to realize new functionality. The added flexibi
 object composition comes from the ability to change the composition at run-time, which
 is impossible with static class composition.
 
- * Adapter
+ * [Adapter](./adapter/README.md)
  * Bridge
  * Composite
  * [Decorator](./decorator/README.md)

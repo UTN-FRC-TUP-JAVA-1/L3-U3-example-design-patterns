@@ -23,7 +23,7 @@
     <module>factory-method</module>
     <module>prototype</module>
     <module>singleton</module>
-<!--    <module>adapter</module>-->
+    <module>adapter</module>
 <!--    <module>bridge</module>-->
 <!--    <module>composite</module>-->
     <module>decorator</module>
