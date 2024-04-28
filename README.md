@@ -221,7 +221,7 @@ object composition comes from the ability to change the composition at run-time,
 is impossible with static class composition.
 
  * [Adapter](./adapter/README.md)
- * Bridge
+ * [Bridge](./bridge/README.md)
  * Composite
  * [Decorator](./decorator/README.md)
  * [Facade](./facade/README.md)
