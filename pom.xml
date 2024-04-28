@@ -30,7 +30,7 @@
     <module>facade</module>
 <!--    <module>flyweight</module>-->
 <!--    <module>proxy</module>-->
-<!--    <module>chain-of-responsibilities</module>-->
+    <module>chain-of-responsibility</module>
     <module>command</module>
 <!--    <module>interpreter</module>-->
     <module>iterator</module>

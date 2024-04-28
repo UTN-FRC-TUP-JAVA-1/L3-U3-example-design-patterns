@@ -245,7 +245,7 @@ operations. The other behavioral class pattern is Interpreter, which represents
 a grammar as a class hierarchy and implements an interpreter as an operation on
 instances of these classes.
 
- * Chain of Responsibility
+ * [Chain of Responsibility](./chain-of-responsibility/README.md)
  * [Command](./command/README.md)
  * Interpreter
  * [Iterator](./iterator/README.md)
