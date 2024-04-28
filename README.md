@@ -250,7 +250,7 @@ instances of these classes.
  * Interpreter
  * [Iterator](./iterator/README.md)
  * Mediator
- * Memento
+ * [Memento](./memento/README.md)
  * [Observer](./observer/README.md)
  * State
  * [Strategy](./strategy/README.md)
